@@ -1,5 +1,5 @@
-# neverAFK - Jacob Tornatta 2020
-# This is a program that uses random, time, and pyautogui to generate random inputs on the mouse
+# neverAFK 2020
+# This is a script that uses random, time, and pyautogui to generate random inputs on the mouse
 # so that the user never appears "away from keyboard" on apps such as Slack and Discord.
 import random
 import time
